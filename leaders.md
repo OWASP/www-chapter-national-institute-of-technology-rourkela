@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ramesh Kumar Mohapatra](mailto:ramesh.kumarmohapatra@owasp.org)
+* [Akash Poudel](mailto:akash.poudel@owasp.org)
