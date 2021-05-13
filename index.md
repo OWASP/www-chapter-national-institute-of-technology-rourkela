@@ -10,7 +10,8 @@ meetup-group:
 
 ## Welcome
 <img src="assets/images/OWASP_NITR_LOGO_1.png">
-Include some information here about your chapter
+
+The OWASP Rourkela Chapter was establised on 13th May 2021. The objective of this chapter is to spread knowledge in the young minds the aspect of security.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
