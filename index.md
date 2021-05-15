@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP NIT Rourkela
-tags: nitrkl
+tags: nitrkl chapter
 region: Asia
 meetup-group: OWASP Rourkela
 country: India
