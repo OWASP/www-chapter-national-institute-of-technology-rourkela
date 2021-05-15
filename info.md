@@ -1,6 +1,6 @@
 ### Chapter Information
-![OWASP NIT Rourkela](assets/images/OWASP_NITR_LOGO_1.png
-"OWASP NIT Rourkela Chapter")
+![OWASP www-chapter-National-Institute-of-Technology-Rourkela](assets/images/OWASP_NITR_LOGO_1.png
+"OWASP NIT Rourkela chapter")
 
 
 ### Social Links
