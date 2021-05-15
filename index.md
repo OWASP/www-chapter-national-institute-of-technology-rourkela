@@ -2,10 +2,11 @@
 
 layout: col-sidebar
 title: OWASP NIT Rourkela
-tags: NIT Rourkela Chapter India
+tags: nitrkl
 region: Asia
-meetup-group:
-
+meetup-group: OWASP Rourkela
+country: India
+Postal Code: 769008
 ---
 
 ## Welcome
