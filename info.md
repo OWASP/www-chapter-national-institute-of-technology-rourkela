@@ -4,7 +4,7 @@
 
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/nit-rourkela/)
 
 
 ### Become speaker
