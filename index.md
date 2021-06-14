@@ -6,7 +6,7 @@ tags: nitrkl
 level: 0
 type: documentation
 region: Asia
-meetup-group: owasp-nit-rourkela
+meetup-group: nit-rourkela
 country: India
 Postal Code: 769008
 
