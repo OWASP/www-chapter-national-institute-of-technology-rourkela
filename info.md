@@ -5,6 +5,7 @@
 
 ### Social Links
 * [Meetup Group](https://www.meetup.com/nit-rourkela/)
+* [YouTube](https://www.youtube.com/channel/UC5hhduxXVgrk-cudJlUxKTA)
 * [Linkedin](https://www.linkedin.com/company/owasp-nit-rourkela)
 * [Instagram](https://www.instagram.com/owasp_nitr/)
 

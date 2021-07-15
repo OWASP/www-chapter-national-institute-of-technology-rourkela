@@ -8,6 +8,6 @@ tags: nitrkl
 
 ---
 
-## Example
+## Contact Us
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Send an Email to any Chapter Leaders.
