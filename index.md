@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP NIT Rourkela chapter - Student Chapter
+title: OWASP National Institute of Technology Rourkela 
 tags: nitrkl
 level: 0
 type: documentation
